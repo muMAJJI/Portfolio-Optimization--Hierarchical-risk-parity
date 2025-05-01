@@ -14,7 +14,7 @@ In this project, we explore the Hierarchical Risk Parity (HRP) method, a sophist
 
 - **Theory**: A PDF document providing a detailed explanation of the theory behind the model.
 
-- **HRP_portfolio optimization.ipynb**: A Jupyter Notebook that explains both methods and demonstrates the optimization process.
+- **HRP_portfolio optimization.ipynb**: A Jupyter Notebook that explains the method and demonstrates the optimization process.
 
 ## :mailbox_closed: Contact
 For any information, feedback or questions, please [contact me][Mustafa-email]
